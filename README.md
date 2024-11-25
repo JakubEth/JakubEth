@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/7VH0tp3" />
-</div>
-
-###
-
 <h1 align="center">Hey There 👋</h1>
 
 ###
