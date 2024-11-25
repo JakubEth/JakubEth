@@ -39,6 +39,10 @@ I'm Jakub from Poland. I'm a full-stack developer with a passion for blockchain 
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
-<!-- Optionally, you can add GitHub stats here -->
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JakubEth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
